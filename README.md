@@ -10,7 +10,7 @@ I'm a passionate Java Backend Developer who loves developing Restful API's and b
 - 🐳 Docker (Containerization)
 - 🟥 Redis (Caching)
 
-🔍 ** What I'm interested in: **
+
 ![Java](https://img.shields.io/badge/Java-Backend-blue?logo=openjdk)  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-Framework-brightgreen?logo=springboot)  
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)  
@@ -24,7 +24,7 @@ I'm a passionate Java Backend Developer who loves developing Restful API's and b
 
 📫 **Let's connect!**  
 [LinkedIn](https://www.linkedin.com/in/divyabharathi-k-203544299/) | 
-[![CodeChef](https://upload.wikimedia.org/wikipedia/commons/7/7b/Codechef_logo.png)](https://www.codechef.com/users/divyabharathi6)
+[![CodeChef](https://www.codechef.com/users/divyabharathi6)
 
 
-📌 _"Code with purpose. Build with passion."_
+ "Code with purpose. Build with passion."
