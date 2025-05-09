@@ -24,7 +24,7 @@ I'm a passionate Java Backend Developer who loves developing Restful API's and b
 
 📫 **Let's connect!**  
 [LinkedIn](https://www.linkedin.com/in/divyabharathi-k-203544299/) | 
-[![CodeChef](https://www.codechef.com/users/divyabharathi6)
+[CodeChef](https://www.codechef.com/users/divyabharathi6)
 
 
- "Code with purpose. Build with passion."
+"Code with purpose. Build with passion."
