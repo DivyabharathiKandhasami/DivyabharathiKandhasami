@@ -1,16 +1,24 @@
-## Hi there 👋
+ 👋 Hi there, I'm Divyabharathi K!
 
-<!--
-**DivyabharathiKandhasami/DivyabharathiKandhasami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Java Backend Developer who loves developing Restful API's and building robust backend systems .
 
-Here are some ideas to get you started:
+💻  Tech Stack I work with:
+- ☕ Java | Core Java | Collections
+- 🌱 Spring Boot | RESTful APIs | Maven
+- 🛢️ MySQL | JPA | Hibernate 
+- 📘 Swagger (API Documentation)| Postman (API Testing)
+- 🐳 Docker (Containerization)
+- 🟥 Redis (Caching)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 ** What I'm interested in: **
+➡️ Experienced Java Backend Developer with a strong foundation in the IT services industry.
+➡️ Proficient in Core Java, Collections, and building REST APIs using Spring Boot and Maven.
+➡️ Skilled in MySQL with expertise in CRUD operations, ORM, and relational mapping.
+➡️ Experienced with Docker, Redis caching, and testing using JUnit & Mockito for robust deployments.
+
+📫 **Let's connect!**  
+[LinkedIn](https://www.linkedin.com/in/divyabharathi-k-203544299/) | 
+[![CodeChef](https://upload.wikimedia.org/wikipedia/commons/7/7b/Codechef_logo.png)](https://www.codechef.com/users/divyabharathi6)
+
+
+📌 _"Code with purpose. Build with passion."_
