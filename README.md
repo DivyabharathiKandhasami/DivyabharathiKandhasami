@@ -11,10 +11,14 @@ I'm a passionate Java Backend Developer who loves developing Restful API's and b
 - 🟥 Redis (Caching)
 
 🔍 ** What I'm interested in: **
-➡️ Experienced Java Backend Developer with a strong foundation in the IT services industry.
-➡️ Proficient in Core Java, Collections, and building REST APIs using Spring Boot and Maven.
-➡️ Skilled in MySQL with expertise in CRUD operations, ORM, and relational mapping.
-➡️ Experienced with Docker, Redis caching, and testing using JUnit & Mockito for robust deployments.
+![Java](https://img.shields.io/badge/Java-Backend-blue?logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Framework-brightgreen?logo=springboot)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker)
+![Redis](https://img.shields.io/badge/Redis-Caching-red?logo=redis)
+![Swagger](https://img.shields.io/badge/Swagger-API%20Docs-green?logo=swagger)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?logo=postman)
+
 
 📫 **Let's connect!**  
 [LinkedIn](https://www.linkedin.com/in/divyabharathi-k-203544299/) | 
