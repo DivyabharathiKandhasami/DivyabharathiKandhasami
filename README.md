@@ -1,6 +1,6 @@
  👋 Hi there, I'm Divyabharathi K!
 
-I'm a passionate Java Backend Developer who involves developing Restful API's and building robust backend systems .
+I'm a passionate Java Backend Developer who involves developing Restful API's and building robust backend systems.
 
 💻  Tech Stack I work with:
 - ☕ Java | Core Java | Collections
